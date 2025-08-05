@@ -1,4 +1,4 @@
-CoDeSys Function Block for reatain on timer
+CoDeSys Function Block for retain on timer
 
 Copy the provided Function Block (FB) from the supplied program into the required program. 
 
